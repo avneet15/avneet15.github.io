@@ -10,7 +10,7 @@ image: assets/images/book.jpg
 
 I’m starting off a new tradition for myself - to write about some of the books that inspired me or challenged my way of thinking in a profound way. I’m sure this won’t be easy to put in words but I’m doing this so I can hold myself accountable to pick up more of such reads throughout the year!
 
-### *Breakfast With Seneca* by *David Fieldler*
+### *Breakfast With Seneca, David Fieldler*
 
 ![Breakfast with Seneca](https://m.media-amazon.com/images/I/61eqjBKbRtL.jpg)
 
@@ -34,7 +34,7 @@ Another key mental re-inforcement for me has been the concept of treating time a
 
 This book offers some more thoughts on living fully and on curbing fear of death, reminding us to be gratuitous for the life we have lived, recognizing that death is just part of the natural lifecycle and that quality of life is more important than the quantity, quoting Seneca with *“A wise person will live as long as he ought, not as long as he can”.*
 
-### *Savor* by *Fatima Ali*
+### *Savor, Fatima Ali*
 
 ![Savor](https://images.penguinrandomhouse.com/cover/9780593355190)
 
@@ -50,7 +50,7 @@ As we read about Fatima swimming against the obstinate current to fulfill her dr
 
 The other subtle theme throughout the book is to look for the good among all the bad that life might have given you. It is crucial to build resilience and stand in the face of various adversities that will come your way. Find strength from and gratitude for everything good in your life, including your friends and family and the ceaseless love and support you’re fortunate enough to receive.
 
-### *Ikigai* by *Francesc Miralles and Hector Garcia*
+### *Ikigai, Francesc Miralles and Hector Garcia*
 
 ![Ikigai](https://prodimage.images-bn.com/pimages/9780143130727_p0_v4_s1200x630.jpg)
 
