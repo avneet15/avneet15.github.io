@@ -12,7 +12,7 @@ I’m starting off a new tradition for myself - to write about some of the books
 
 ### *Breakfast With Seneca,* by *David Fieldler*
 
-![Screenshot] (assets/images/seneca.jpg)
+![Image](../assets/images/seneca.jpg "Breakfast with Seneca")
 
 ### *Summary*
 
@@ -36,7 +36,7 @@ This book offers some more thoughts on living fully and on curbing fear of death
 
 ### *Savor,* by *Fatima Ali*
 
-![Savor](./assets/images/savor.jpg)
+![Image](../assets/images/savor.jpg "Savor")
 
 ### *Summary*
 
@@ -52,7 +52,7 @@ The other subtle theme throughout the book is to look for the good among all the
 
 ### Ikigai*, by *Francesc Miralles and Hector Garcia*
 
-![Ikigia book logo](./assets/images/ikigai.jpg "Ikigai")
+![Image](../assets/images/ikigai.jpg "Ikigai")
 
 ### *Summary*
 
