@@ -16,7 +16,7 @@ I’m starting off a new tradition for myself - to write about some of the books
 
 ### *Summary*
 
-I picked this up, not expecting to gain a lot from it but found myself being pleasantly surprised. The author starts by briefly diving into Seneca’s background, using it as the backdrop to explain Seneca’s writings, whose written philosophy has withstood the test of time, establishing him one of the most renowned of the stoic philosophers. 
+picked this up, not expecting to gain a lot from it but found myself being pleasantly surprised. The author starts by briefly diving into Seneca’s background, using it as the backdrop to explain Seneca’s writings, whose written philosophy has withstood the test of time, establishing him one of the most renowned of the stoic philosophers. 
 
 The book provides Seneca’s perspective on a variety of topics, ranging in gravitas, from thoughts on what makes for a good friendship to deeper matters such as one’s futile battle against the winds of fortune. For someone fairly new to stoic philosophy, such as myself, the book has a lot to teach, though the author does get a bit repetitive in certain parts. For each topic, after touching upon Seneca’s writing on the subject, the author provides his commentary on how the teaching applies in a contemporary context, often citing an anecdote about how he successfully has or is trying to inculcate the stoic outlook in his own life. Each of these topics are poignant enough that innumerable books have been written on them, but the author here provides a reasonably high level overview, touching on a breadth of topics, leaving the door open for us to dive deeper into specific areas of stoic learnings and practices as we desire.
 
