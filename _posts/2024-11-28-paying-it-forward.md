@@ -2,11 +2,9 @@
 layout: post
 title:  "Paying It Forward"
 author: Avneet
-categories: [ Reflections ]
+categories: [ Books ]
 image: assets/images/train.jpg
 ---
-
-# Paying it forward
 
 I always thought that I could only ever be in a position to contribute back to society, to make make an impact, a difference, if I’m ever wealthy enough. Admittedly, there was no set number that I had in mind, I assumed I’d know it was enough if I ever got there.
 
