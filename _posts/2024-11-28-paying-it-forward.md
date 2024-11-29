@@ -1,19 +1,67 @@
 ---
 layout: post
-title:  "Paying it forward"
+title:  "Inspirational reads of 2024"
 author: Avneet
-categories: [ Reflections ]
+categories: [ Testing ]
 image: assets/images/book.jpg
 ---
 
-# Paying It Forward
+# Inspirational reads of the year - 2023
 
-I always thought that I could only ever be in a position to contribute back to society, to make make an impact, a difference, if I’m ever wealthy enough. Admittedly, there was no set number that I had in mind, I assumed I’d know it was enough if I ever got there.
+I’m starting off a new tradition for myself - to write about some of the books that inspired me or challenged my way of thinking in a profound way. I’m sure this won’t be easy to put in words but I’m doing this so I can hold myself accountable to pick up more of such reads throughout the year!
 
-The other day when I was driving back from my doctor’s office, I passed by the Mountain View community shuttle van. It’s a can providing a free transportation service provided by the city of Mountain View, with 10 or so stops, including the Caltrain station. At my first job in the Bay Area in 2017, I would walk a little over 20 minutes from my rental apartment to get to the train station to get to the office in downtown San Jose. The mile walk was mostly fine except for days which were very hot or cold, hence I was glad to find that the community shuttle had a stop about a 4 minute walk from where I stayed. I recall I started taking the shuttle to and from the station most days. That’s how I met Carlos, one of the assigned drivers for that route. He was Mexican, likely in his late 40’s with a slight belly and a warm smile on his face as he greeted the passengers on the shuttle. I don’t even recall how we got to talking but it was likely because I was one of a handful of passengers on that route, often the only one. It started off as niceties, with him wishing me a a good day when he dropped me off in the morning and asking me about how my day was in the evenings. Initially I’d just reply absent-mindedly that it was good but I actually started giving it some more thought after a few more days of this routine. His genuine interest in something that happened at work along with with his jovial nature made even an introvert like me open up to this stranger. In just a few months, we built a really good rapport. After tough days at work, which there were plenty of at that first job, I’d be slightly disappointed if Carlos wasn’t the shuttle driver who showed up that evening. 
+### *Breakfast With Seneca, David Fieldler*
 
-We started sharing more about our lives with each other, him about his son who just got out of jail, his wife, the very aggressive dog he had recently become an unwilling owner for. I shared more about how I came to the US, my mum and how I desperately wanted to have a dog myself someday. On days when I was the only passenger in the evening, he would slightly alter the bus route so he could drop me right outside my apartment complex, instead of at the bus stop, a practice which would be frowned upon if his supervisor were to ever find out. This small act was a great kindness though, especially on cold winter evenings with temperatures being as low as 4 degrees celsius when even a short walk felt like braving a mile. “I’ve told the other guy to drop you off here, I’ll be out tomorrow”, he would often inform me. We’d developed a sweet friendship, in the confines of that daily 10 minute bus ride. I remember giving him some sweets my mom had brought from India, he was pleasantly surprised. Eventually, after about a year of taking the shuttle, I finally leant how to drive and bought my first car. I started taking the shuttle less and less, trying to get some practice by driving to and from work. I remember talking with my mom about taking the shuttle one day, to go meet Carlos, give him some sort of parting gift as a token of my gratitude, but some or the other reason that never really happened and I never saw him again.
+![Breakfast with Seneca](https://m.media-amazon.com/images/I/61eqjBKbRtL.jpg)
 
-Passing the shuttle on my way home that day, I tried looking closely, hoping to see Carlos, by some miracle, 6 years since I last met him. No such luck, just that it got me feeling nostalgic. I smiled to myself, hoping he’s doing good, wherever he might be now. This made me have a very conscious realization of how small acts of kindness can go a long way having the power to leave an everlasting impression on the receiver. 
+### *Summary*
 
-Maybe there’s more than one way to give back, to make an impact on someone, make someone’s life easier or better. I’m writing this note as a reminder for myself to keep my eyes open for such opportunities, hopefully you’ll do the same.
+I picked this up, not expecting to gain a lot from it but found myself being pleasantly surprised. The author starts by briefly diving into Seneca’s background, using it as the backdrop to explain Seneca’s writings, whose written philosophy has withstood the test of time, establishing him one of the most renowned of the stoic philosophers. 
+
+The book provides Seneca’s perspective on a variety of topics, ranging in gravitas, from thoughts on what makes for a good friendship to deeper matters such as one’s futile battle against the winds of fortune. For someone fairly new to stoic philosophy, such as myself, the book has a lot to teach, though the author does get a bit repetitive in certain parts. For each topic, after touching upon Seneca’s writing on the subject, the author provides his commentary on how the teaching applies in a contemporary context, often citing an anecdote about how he successfully has or is trying to inculcate the stoic outlook in his own life. Each of these topics are poignant enough that innumerable books have been written on them, but the author here provides a reasonably high level overview, touching on a breadth of topics, leaving the door open for us to dive deeper into specific areas of stoic learnings and practices as we desire.
+
+Overall, the book is a thought provoking read, forcing you to pause and examine your own outlook on life, the adversities you’ve faced and how you have and can choose to react to them in the future.  Depending on one’s interest and resonance with this branch of philosophy, the teachings here have the power to stay with you long after you’ve closed the book.
+
+### *What inspired me*
+
+The deepest and most though provoking lessons for me from the book were:
+
+On the topic of dealing with adversity and grief, the book tells us that we should be grateful for everything that the universe has given us, and to think of it as a “generous loan” from the cosmos. The fact that fortune can choose to favor us, but has no obligation to do so. This belief is very much in the same vein as Victor Frankl’s(Austrian psychologist, author of *Man’s search for meaning*) teachings on life who said “*It did not really matter what we expected from life, but rather what life expected from us”.* This influenced my mindset by helping reinforce the sheer randomness of fate, that the most horrible things can be bestowed on the most virtuous people and that so much evil will go unpunished. There is no inherent meaning or reason to any of this. 
+
+The main lesson here is that what matters is our attitude in the face of adversity, to not be crippled by it but to find some meaning in that suffering and use it as an opportunity to better ourselves. One “stoic technique” suggested is “premeditation of future adversity” i.e. mentally rehearsing negative events in your mind, so you’re more emotionally prepared for them, if they do occur. This piece of advice is a double edged sword in my opinion since it comes with the caveat of using just the right amount of negative visualization, while ensuring we’re not completely worrying and imagining the worst, all the time. In any case, this is something I’ll be trying to do more of. 
+
+Another key mental re-inforcement for me has been the concept of treating time as our most valuable asset and to not postpone “living” until after retirement. This serves as a constant reminder for me to actively develop interests outside of work, to not just be defined by my professional title and to find a sense of “eudaimonia”, achievement and fulfillment outside of my career.
+
+This book offers some more thoughts on living fully and on curbing fear of death, reminding us to be gratuitous for the life we have lived, recognizing that death is just part of the natural lifecycle and that quality of life is more important than the quantity, quoting Seneca with *“A wise person will live as long as he ought, not as long as he can”.*
+
+### *Savor, Fatima Ali*
+
+![Savor](https://images.penguinrandomhouse.com/cover/9780593355190)
+
+### *Summary*
+
+The book is based on the life of Fatima Ali, a Pakistani chef who was diagnosed with cancer and lost her life before she was 30. The book was started at the behest of Fatima, a while after she was diagnosed. She was eager to share her story with the world, her hopes and lofty ambitions which were tragically curtailed by circumstances outside of her control. The book is autobiographical in part, with Fatima narrating her journey, alongside her mother, Farezeh’s account. The book is incredibly engaging, starting off with detailed descriptions of her childhood, providing insight into the spark that led her to pursue a career in the culinary field. The book is vivid in it’s storytelling, with the descriptiveness of the spices, aromas and culinary creations coming alive. The book also dives into Farezeh’s life to provide a more complete picture of Fatima’s journey from a child entertaining guests with her culinary creations to someone on the verge of opening her own restaurant in New York City, ready to face off with the crème de la crème of the culinary world. The book unsurprisingly turns into a harder read once she is diagnosed and begins fighting the valiant fight with every last cell of her being. You find yourself desperately rooting for her, miraculously hoping to change the past. While we all know where it ends, I came away inspired by the story. These are stories of women challenging the status quo, in extremely conservative cultures, chasing after their desires and wants, wanting to inspire and leave a lasting example for future generations to look up to. 
+
+### *What inspired me*
+
+There’s a lot to be inspired by from this heart warming story which makes us contemplate the value of a lot of things which we take for granted, such as our time, our life, even.
+
+As we read about Fatima swimming against the obstinate current to fulfill her dream, one can’t help but introspect about what our own unfulfilled dreams are, the things which if left un-done would make our life feel insufficient and incomplete at the end. The book is a gut wrenching call to action to chase after what you really want, reminding you that you have lesser time than you think and that anything you possess may be taken away from you at any time. So be the best version of yourself that you can be, don’t delay chasing your dreams.
+
+The other subtle theme throughout the book is to look for the good among all the bad that life might have given you. It is crucial to build resilience and stand in the face of various adversities that will come your way. Find strength from and gratitude for everything good in your life, including your friends and family and the ceaseless love and support you’re fortunate enough to receive.
+
+### *Ikigai, Francesc Miralles and Hector Garcia*
+
+![Ikigai](https://prodimage.images-bn.com/pimages/9780143130727_p0_v4_s1200x630.jpg)
+
+### *Summary*
+
+This one was a long awaited read for me, given it’s general popularity. While I can’t say I’m disappointed, I was expecting the book to be a bit meatier, but it was nonetheless illuminating. The book introduces the concept of “Ikigai” which can be translated as one’s meaning for living, as something that resides in each individual. It’s essentially our life force, our passion, that spark that makes us want to keep living. The book talks about practices learnt from the “Blue Zones” which are geographic areas all across the world which have been observed to have the highest human life expectancies. The authors dive into the different factors which seem to be playing a key role in the longevities observed in the communities here such as their diet, their state of mind, their day to day, to discover their anti-aging secrets. While the book is a short read, it helps not only reinforce a number of things we know we should be doing for great health, such as being more physically active, eating more fruits and vegetables, controlling stress, etc but also emphasizes the importance of finding and having a purpose, in order to live a long and fulfilling life.
+
+### *What inspired me*
+
+One of the things I took away from the book is the importance of community and social ties in creating a fulfilling life, which becomes even more vital as one grows older. This is something that I have started to pay a bit more attention to and can corroborate based on observing aging adults around me. As one is approaching retirement, it is easy to understand the need to find a purpose that is no longer tied to the job you’ve had. It is here that communities with a common purpose, whether it be religious, political or whatever else are able to fill an existential hole that one may be experiencing. Especially in cases where the children are not in close proximity, feeling part of a tight knit group, however small or big is crucial to rely on. I now finally understand my mum’s surprising recent interest and active involvement in a spiritual community and why that’s a crucial part of her life now.
+
+The other most important takeaway for me was the importance of keeping your mind active, to be open to learning new things, no matter what age. “Flow” as a concept is also talked about in the book, which is essentially actively engaging your mind and or body towards fulfilling goals which are challenging yet achievable. On some introspection,  these definitely feel like the most satisfying moments in life so this is a good reminder to keep challenging yourself, to hopefully find and exceed what you thought was your potential.
+
+Lastly, on the elusive “Ikigai”, I’m definitely motivated to find it, ideally a creative outlet, to  provide a sense of satisfaction and purpose to my life.
