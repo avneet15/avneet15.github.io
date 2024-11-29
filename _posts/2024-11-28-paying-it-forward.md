@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Inspirational reads of 2023"
+title:  "Paying It Forward"
 author: Avneet
-categories: [ Books ]
+categories: [ Reflections ]
 image: assets/images/book.jpg
 ---
 
