@@ -2,7 +2,7 @@
 layout: post
 title:  "Writing my first concurrent program in Golang"
 author: Avneet
-categories: [ Golang ]
+categories: [ Tech ]
 image: assets/images/go_img.png
 ---
 
